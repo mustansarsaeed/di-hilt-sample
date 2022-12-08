@@ -20,4 +20,6 @@ import android.app.Application
 import dagger.hilt.android.HiltAndroidApp
 
 @HiltAndroidApp
-class LogApplication : Application() {}
+class LogApplication : Application() {
+    Introducing an error for CI/CD
+}
